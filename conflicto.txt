@@ -1,1 +1,3 @@
 Crearemos un archivo con el nombre de conflicto
+
+Se ha modificado el arcchivo conflicto en remoto
