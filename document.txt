@@ -1,2 +1,0 @@
-agregar mas archivos y confirmar con >git commit -a<
-Vamos a seguir
