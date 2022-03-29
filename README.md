@@ -1,1 +1,3 @@
 # curso
+
+#Latex y git 
