@@ -1,0 +1,3 @@
+[submodule "nodeo"]
+	path = nodeo
+	url = https://github.com/JJ/nodeo.git
