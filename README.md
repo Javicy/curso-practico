@@ -1,3 +1,0 @@
-# curso
-
-#Latex y git 
